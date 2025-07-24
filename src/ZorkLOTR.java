@@ -1,4 +1,4 @@
-```java
+java
 import java.util.Scanner; // Classe Scanner: lê entrada do usuário (números, texto)
 
 public class ZorkLOTR {
